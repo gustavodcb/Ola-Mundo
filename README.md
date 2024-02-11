@@ -3,4 +3,4 @@
  
  Repositório para testes voltado ao Git e Github
 
- Essa linha eu adicinei diretamente pelo site do Github!
+ Essa linha eu adicionei diretamente pelo site do Github!
